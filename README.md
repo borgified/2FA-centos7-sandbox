@@ -17,7 +17,7 @@ At the end of the provisioning process, the ip of the VM should be revealed to y
 
 And try to ssh back in. If things don't work as expected, you can always `vagrant ssh` to get inside and fix things.
 
-All goes well, you should see:
+If all goes well, you should see:
 ```
 $ ssh 172.16.195.132 -l testuser
 Password:
