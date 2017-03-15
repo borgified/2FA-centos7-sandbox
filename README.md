@@ -11,7 +11,7 @@ To use:
 
 At the end of the provisioning process, the ip of the VM should be revealed to you.
 
-5. ssh <ip of VM> -l testuser
+5. ssh 172.16.195.132 -l testuser (use your own ip)
 6. yes | google-authenticator
 7. exit
 
